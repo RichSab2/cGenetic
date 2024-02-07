@@ -3,6 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-  printf("hidden merge\n");
+  printf("Hello, other\n");
   return 0;
 }
