@@ -3,6 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Hello, World!\n");
+  printf("Other branch!\n");
   return 0;
 }
